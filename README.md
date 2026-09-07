@@ -625,10 +625,7 @@ AI assistance was used during the development process for **dataset design, prep
 
 ## 👤 Author
 
-**Dash**
-
-📌 **Project:** Holistic Data Preparer — Customer Credit Risk Dataset  
-🎓 **Purpose:** Data Preprocessing & Feature Engineering Final Project
+**Dushyant V**
 
 ---
 
