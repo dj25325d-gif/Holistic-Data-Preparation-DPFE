@@ -1,0 +1,27 @@
+[
+    {
+        "customer_id": "CUST00001",
+        "customer_segment": "Regular",
+        "preferred_channel": "Mobile"
+    },
+    {
+        "customer_id": "CUST00002",
+        "customer_segment": "Premium",
+        "preferred_channel": "Web"
+    },
+    {
+        "customer_id": "CUST00003",
+        "customer_segment": "Regular",
+        "preferred_channel": "Mobile"
+    },
+    {
+        "customer_id": "CUST00004",
+        "customer_segment": "New",
+        "preferred_channel": "Web"
+    },
+    {
+        "customer_id": "CUST00005",
+        "customer_segment": "Premium",
+        "preferred_channel": "Mobile"
+    }
+]
