@@ -526,9 +526,6 @@ Holistic-Data-Preparer/
 │   ├── SC12.png
 │   └── SC13.png
 │
-├── docs/
-│   ├── Project_Report.pdf
-│   └── Theory_Notes.pdf
 │
 └── video/
     └── Project_Explanation.mp4
